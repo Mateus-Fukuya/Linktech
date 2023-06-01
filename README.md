@@ -1,42 +1,38 @@
-# Nuxt 3 Minimal Starter
+# WhatsCode
+Uma aplicação que usa da API do Whatsapp para criar links personalizados a partir de um telefone e opcionalmente uma mensagem.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+## Uso/Exemplos
 
-## Setup
-
-Make sure to install the dependencies:
-
+Primeiro clone o repositorio usando o [git](https://git-scm.com/)
 ```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
+git clone https://github.com/ojoquinhaa/gptweeter.git whatscode
+cd whatscode
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`
-
+Use o yarn ou npm para instalar as dependencias do projeto
 ```bash
-npm run dev
+NPM: npm install
+YARN: yarn
 ```
 
-## Production
-
-Build the application for production:
-
+Rode a aplicação no modo de desenvolvimento
 ```bash
-npm run build
+YARN: yarn dev 
+NPX: npx run dev
 ```
 
-Locally preview production build:
+Para utilizar a aplicação é muito simples, basta preencher o campo do seu número de whatsapp e se quiser uma mensagem então gerar o seu link rapidamente.
 
-```bash
-npm run preview
-```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Autores
+
+- [TypeCodes ⚡](https://typecodes.com.br)
+- [@Mateus-Fukuya](https://github.com/Mateus-Fukuya)
+- [@ojoquinhaa](https://www.github.com/ojoquinhaa)
+
+
+## Stack utilizada
+
+**Front-end:** [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/), [Vite](https://vitejs.dev/)
+
