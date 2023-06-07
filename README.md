@@ -35,3 +35,4 @@ Para utilizar a aplicação é muito simples, basta preencher o campo do seu nú
 ## Stack utilizada
 
 **Front-end:** [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/), [Vite](https://vitejs.dev/)
+
